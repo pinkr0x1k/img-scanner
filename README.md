@@ -4,10 +4,12 @@ This Python project is an image scanner that performs sensitive keyword scanning
 
 ## Installation
 
-1. If Python is not installed, [Download and Install Python](https://www.python.org/downloads/).
+## Installation
+
+1. If Python is not installed, [download and install Python](https://www.python.org/downloads/).
 2. Install the required libraries by running the following command in your terminal/cmd:
-    ```
-    pip install opencv-python pytesseract
+    ```bash
+    pip3 install -r requirements.txt # Install the dependencies
     ```
 
 ## Usage
